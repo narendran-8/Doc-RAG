@@ -1,0 +1,4 @@
+fastapi[all]
+PyPDF2
+langchain-community
+pypdf
